@@ -1,0 +1,51 @@
+name: Deploy_on_prod_ec2
+
+on:
+  workflow_dispatch:
+    inputs:
+      BRANCH:
+        description: 'BRANCH TO CHECKOUT'
+        required: true
+        type: string
+        default: 'visualizer'
+      VITE_API_URL:
+        description: 'VITE_API_URL'
+        required: true
+        type: string
+        default: 'http://visualizer-be:3000/'
+
+jobs:
+  Build_And_Compose_up:
+    runs-on:  visualizer-runner-fe
+    steps:
+      - uses: actions/checkout@v2
+        name: Check out code
+        with:
+          ref: ${{ inputs.BRANCH }}
+          fetch-depth: 0  
+
+      - name: generate env file
+        run: |
+            cat <<EOF >.env
+                VITE_API_URL=${{ inputs.VITE_API_URL }}
+            EOF 
+
+      - name: Build Images
+        run: |
+            echo 'Building the app images  .....'
+            docker compose build
+
+      - name: Take down previous version
+        run: |
+            echo 'Taking down previously running app  .....'
+            docker compose down
+
+      - name: Deploy with newly build images
+        run: |
+            echo 'Deploying new version .....'
+            docker compose up -d
+
+      - name: Remove previous docker images
+        run: |
+            echo 'Removing not in used Images  .....'
+            docker image prune --force --all --filter="until=48h"

@@ -1,0 +1,427 @@
+[
+ {
+  "id": 1,
+  "shirt_glb": "/Shirt_Template/DSC_0001/DSC_0001_SHIRT.glb",
+  "body_glb": "/Shirt_Template/DSC_0001/DSC_0001_BODY.glb",
+  "body_png": "/Shirt_Template/DSC_0001/DSC_0001_BODY.png",
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/1.png"
+ },
+ {
+  "id": 2,
+  "background": "/Shirt_Template/DSC_0002/DSC_0002_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0002/DSC_0002_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0002/DSC_0002_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0002/DSC_0002_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.08,
+   "y": 0.04,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.35,
+   "y": 0.97,
+   "z": 0.5
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/2.png"
+ },
+ {
+  "id": 3,
+  "background": "/Shirt_Template/DSC_0003/DSC_0003_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0003/DSC_0003_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0003/DSC_0003_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0003/DSC_0003_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.08,
+   "y": 0.06,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.35,
+   "y": 0.97,
+   "z": 0.5
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/3.png"
+ },
+ {
+  "id": 4,
+  "background": "/Shirt_Template/DSC_0004/DSC_0004_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0004/DSC_0004_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0004/DSC_0004_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0004/DSC_0004_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.07,
+   "y": 0.06,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.34,
+   "y": 0.97,
+   "z": 0.5
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/4.png"
+ },
+ {
+  "id": 5,
+  "background": "/Shirt_Template/DSC_0005/DSC_0005_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0005/DSC_0005_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0005/DSC_0005_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0005/DSC_0005_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 1
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.07,
+   "y": 0.047,
+   "z": 0
+  },
+  "background_scale": {
+   "x": 0.341,
+   "y": 0.999,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/5.png"
+ },
+ {
+  "id": 6,
+  "background": "/Shirt_Template/DSC_0006/DSC_0006_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0006/DSC_0006_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0006/DSC_0006_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0006/DSC_0006_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.071,
+   "y": 0.041,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.332,
+   "y": 1.001,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/6.png"
+ },
+ {
+  "id": 7,
+  "background": "/Shirt_Template/DSC_0007/DSC_0007_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0007/DSC_0007_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0007/DSC_0007_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0007/DSC_0007_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.071,
+   "y": 0.041,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.339,
+   "y": 0.999,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/7.png"
+ },
+ {
+  "id": 8,
+  "background": "/Shirt_Template/DSC_0008/DSC_0008_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0008/DSC_0008_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0008/DSC_0008_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0008/DSC_0008_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.071,
+   "y": 0.047,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.339,
+   "y": 0.999,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/8.png"
+ },
+ {
+  "id": 9,
+  "background": "/Shirt_Template/DSC_0009/DSC_0009_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0009/DSC_0009_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0009/DSC_0009_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0009/DSC_0009_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.069,
+   "y": 0.047,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.339,
+   "y": 0.999,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/9.png"
+ },
+ {
+  "id": 10,
+  "background": "/Shirt_Template/DSC_0010/DSC_0010_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0010/DSC_0010_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0010/DSC_0010_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0010/DSC_0010_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.069,
+   "y": 0.046,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.329,
+   "y": 1.01,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/10.png"
+ },
+ {
+  "id": 11,
+  "background": "/Shirt_Template/DSC_0011/DSC_0011_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0011/DSC_0011_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0011/DSC_0011_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0011/DSC_0011_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.069,
+   "y": 0.046,
+   "z": 0
+  },
+  "background_scale": {
+   "x": 0.329,
+   "y": 1.01,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/11.png"
+ },
+ {
+  "id": 12,
+  "background": "/Shirt_Template/DSC_0012/DSC_0012_BACKGROUND.glb",
+  "body_glb": "/Shirt_Template/DSC_0012/DSC_0012_BODY.glb",
+  "shirt_glb": "/Shirt_Template/DSC_0012/DSC_0012_SHIRT.glb",
+  "body_png": "/Shirt_Template/DSC_0012/DSC_0012_BODY.png",
+  "position_01": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": 0
+  },
+  "scale_01": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "position_02": {
+   "x": 0.09,
+   "y": -0.9,
+   "z": -2
+  },
+  "scale_02": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": -10
+  },
+  "background_position": {
+   "x": 0.07,
+   "y": 0.05,
+   "z": 1
+  },
+  "background_scale": {
+   "x": 0.34,
+   "y": 0.97,
+   "z": 0
+  },
+  "shirt_img": "/Shirt_Template/SHIRT_IMAGE/12.png"
+ }
+]
